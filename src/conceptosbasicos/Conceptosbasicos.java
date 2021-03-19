@@ -26,7 +26,7 @@ public class Conceptosbasicos {
         miBocho.setColor(Color.blue);
         System.out.println(miBocho);
 
-        //TAREA Programar los objetos miAcura y miMustang
+       
     }
 
 }
